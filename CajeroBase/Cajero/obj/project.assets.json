@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Cajero Full\\Cajero (1)\\Cajero\\Cajero\\Cajero.csproj",
+      "projectUniqueName": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Cajero Full\\CajeroBase1\\CajeroBase\\Cajero\\Cajero.csproj",
       "projectName": "Cajero",
-      "projectPath": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Cajero Full\\Cajero (1)\\Cajero\\Cajero\\Cajero.csproj",
+      "projectPath": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Cajero Full\\CajeroBase1\\CajeroBase\\Cajero\\Cajero.csproj",
       "packagesPath": "C:\\Users\\Julian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Cajero Full\\Cajero (1)\\Cajero\\Cajero\\obj\\",
+      "outputPath": "C:\\Users\\Julian\\OneDrive\\Escritorio\\Cajero Full\\CajeroBase1\\CajeroBase\\Cajero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

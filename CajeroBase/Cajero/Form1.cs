@@ -3,7 +3,7 @@ namespace Cajero
     public partial class Cajero : Form
     {
 
-        int limit = 2000000;
+        int limit = 50000;
 
 
         public Cajero()
@@ -155,7 +155,7 @@ namespace Cajero
             lblpuntos.Text = Properties.Settings.Default.Puntos;
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void button6_Click(object sender, EventArgs e)v
         {
             string cedula = Properties.Settings.Default.Cedula;
 
